@@ -1,0 +1,7 @@
+{
+  "name": "golden",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
